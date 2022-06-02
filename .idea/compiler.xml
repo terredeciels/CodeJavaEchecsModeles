@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CodeJava" />
+        <module name="CodeJavaEchecsModeles" />
       </profile>
     </annotationProcessing>
   </component>
